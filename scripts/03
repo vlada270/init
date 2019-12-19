@@ -1,0 +1,4 @@
+#!/bin/bash
+# This script prints local host's IP
+#
+ip addr | grep inet | grep "host lo" | cut -c 10-18

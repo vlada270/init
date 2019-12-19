@@ -1,0 +1,5 @@
+#!/bin/bash
+# This script delete an active user
+#
+USER=$1
+killall -KILL -u $USER | userdel -r $USER

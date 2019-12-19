@@ -1,0 +1,2 @@
+1) You need to enter the login of your new user (su - <login>) and after that, you need to type user's password(if asked) - graphic session
+2)You need to type 'ssh username@ipaddress' and enter the password - ssh session
