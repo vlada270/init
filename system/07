@@ -1,1 +1,1 @@
-cat /var/run/sshd.pid
+service sshd status | grep PID | awk '{print $3}'

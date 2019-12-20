@@ -1,2 +1,2 @@
 We need to convert private ip to public ip using NAT.
-2)192.168.2.9 - NAT, it is the link between local ip and the outside world.
+2)192.168.2.9 (192.168.2.9) - NAT, it is the link between local ip and the outside world.
